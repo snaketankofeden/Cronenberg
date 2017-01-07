@@ -85,7 +85,7 @@
 	<lowerLimit>0.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>0.0</staticOffset>
+	<staticOffset>102.76119402985074</staticOffset>
 	<isLatch>true</isLatch>
 	<indexLatch>97</indexLatch>
 	<isStopOnLatch>false</isStopOnLatch>
@@ -189,19 +189,19 @@
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 </ZframeToRAS>
 
 <baseToZframe>
 	<x>-88.33333333333336</x>
 	<y>-97.61904761904759</y>
 	<z>131.90476190476193</z>
-	<rotw>0.2753120407190742</rotw>
-	<rotx>-0.17351221579820494</rotx>
-	<roty>-0.06913063942613595</roty>
-	<rotz>-0.9430364499299214</rotz>
+	<rotw>0.27725451195584166</rotw>
+	<rotx>-0.08559165709593478</rotx>
+	<roty>-0.044053051117040644</roty>
+	<rotz>-0.9559619932418754</rotz>
 </baseToZframe>
 
 </leg>
@@ -384,9 +384,9 @@
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 </ZframeToRAS>
 
 <baseToZframe>
@@ -579,9 +579,9 @@
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 </ZframeToRAS>
 
 <baseToZframe>
@@ -774,19 +774,19 @@
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 </ZframeToRAS>
 
 <baseToZframe>
 	<x>-55.000000000000014</x>
 	<y>50.000000000000014</y>
 	<z>69.99999999999997</z>
-	<rotw>0.38268343236507746</rotw>
-	<rotx>-7.252881433641013E-17</rotx>
-	<roty>-1.5750160588727964E-16</roty>
-	<rotz>0.9238795325112926</rotz>
+	<rotw>0.3826834323650772</rotw>
+	<rotx>-7.252881433641008E-17</rotx>
+	<roty>-1.5750160588727954E-16</roty>
+	<rotz>0.923879532511292</rotz>
 </baseToZframe>
 
 </leg>
@@ -796,9 +796,9 @@
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 </ZframeToRAS>
 
 <baseToZframe>
@@ -806,9 +806,9 @@
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 </baseToZframe>
 	<mass>0.01</mass>
 	<centerOfMassFromCentroid>	<x>0.0</x>
